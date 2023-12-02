@@ -1,0 +1,6 @@
+newday.sh
+main
+.DS_Store
+.init/*
+.vscode/**
+day*/main.*/
